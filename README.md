@@ -1,4 +1,4 @@
-# Guestbook for emresarac.com.tr Git tutorial
+# Guestbook for ` emresarac.com.tr ` - Git tutorial
 
 This is the public GitHub project that you can contribute to.
 
@@ -8,18 +8,19 @@ This repository is meant to be a place where our users can leave messages for ot
 You can see the result here: https://emresarac.com.tr/guestbook/
 
 We generally only have one condition: 
-We will not allow messages that are negative, or hurtful. Try to be welcome and positive! :)
+I will not allow messages that are negative, or hurtful. Try to be welcome and positive! :)
 
 # What should my message look like?
 
 You can add almost anything to the index.html file between the indicated comments:
 
-`<!-- Insert your message below here -->`
+```html
+<!-- Insert your message below here -->
 
-and
+(write code here)
 
-`<!-- End user messages -->`
-
+<!-- End user messages -->
+```
 So feel free to use your imagination!
 
 If you are not feeling very creative, you can add a quote, or small text
